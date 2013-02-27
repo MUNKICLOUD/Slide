@@ -11,3 +11,17 @@ body {
 }
 
 .ui-page { -webkit-backface-visibility: hidden; }
+
+a:link, a:visited {
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #136B5B;
+	text-decoration: none;
+}
+
+a:hover, a:active {
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #ffffff;
+	text-decoration: none;
+}
