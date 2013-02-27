@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.munkicloud.slide"
+        version   = "1.0.0">
+
+    <name>Slide</name>
+
+    <description>
+        Take a picture!
+    </description>
+
+    <author href="http://" email="">
+        Robbert Doelwijt
+    </author>
+
+	<!-- De bounce uitschakelen. -->
+    <preference name="webviewbounce" value="false" />
+    
+	<!-- De app fullscreen maken. -->
+    <preference name="fullscreen" value="true" />
+
+</widget>
