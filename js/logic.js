@@ -1,9 +1,9 @@
 function onPhotoDataSuccess() {
-	alert('Success');
+	//
 }
 
 function onFail() {
-	alert('Fail');
+	//
 }
 
 function testCam() {
